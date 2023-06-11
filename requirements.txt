@@ -1,4 +1,4 @@
-keras
-pygame
-Matplotlib
-tensorflow
+keras==2.11.0
+pygame==2.1.2
+matplotlib==3.6.3
+tensorflow==2.11.0
