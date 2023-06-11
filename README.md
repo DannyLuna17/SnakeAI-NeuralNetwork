@@ -10,6 +10,7 @@ A Python-based project that utilizes deep learning and reinforcement learning to
 * Keras
 * Matplotlib
 * Pygame
+* Tensorflow
 
 
 # Installation
